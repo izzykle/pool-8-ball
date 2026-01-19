@@ -2,6 +2,8 @@
 
 A classic Pool 8 Ball game built with HTML5 and WebAssembly using the Construct 3 engine.
 
+![Pool 8 Ball Gameplay](Screenshot/Screenshot.png)
+
 ## Overview
 
 This is an interactive 8 Ball Pool game featuring physics-based gameplay powered by Box2D physics engine compiled to WebAssembly.
