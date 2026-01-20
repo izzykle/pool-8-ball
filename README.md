@@ -2,6 +2,8 @@
 
 A classic Pool 8 Ball game built with HTML5 and WebAssembly using the Construct 3 engine.
 
+🎮 **[Play Live Demo](https://izzykle.github.io/pool-8-ball/)**
+
 ![Pool 8 Ball Gameplay](Screenshot/Screenshot.png)
 
 ## Overview
